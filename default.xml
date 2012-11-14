@@ -9,5 +9,13 @@
 
   <project path="note" name="note" />
   <project path="wiki" name="wiki" />
+  <project path="linux/arch_program" name="arch_program" />
+  <project path="linux/ldd3_examples" name="ldd3_examples" />
+  <project path="linux/aup2ex" name="aup2ex" />
+  <project path="linux/apue.2e" name="apue.2e" />
+  <project path="english/word-counting" name="english-word-counting" />
+  <project path="python/diveintopython_examples" name="diveintopython_examples" />
+  <project path="python/byteofpython_examples" name="byteofpython_examples" />
+  <project path="lisp/clisp_examples" name="clisp-examples" />
 
 </manifest>
